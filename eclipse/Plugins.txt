@@ -1,0 +1,6 @@
+Findbugs http://findbugs.cs.umd.edu/eclipse/
+JAutoDoc http://jautodoc.sourceforge.net/update/
+Metrics http://metrics.sourceforge.net/update
+EclEmma http://update.eclemma.org/
+e(fx)clipse http://download.eclipse.org/efxclipse/updates-released/2.4.0/site
+Xtext http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/ (only if efxclipse does not work)
